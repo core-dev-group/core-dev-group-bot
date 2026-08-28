@@ -54,7 +54,7 @@ Core Dev Group Bot is packed with features designed specifically for developers,
 
 ## 📜 Documentation
 
-Full documentation on how to configure the bot, setup specific channels, and manage the Kanban board is available directly on the [Web Dashboard](http://localhost:5173/#docs).
+Full documentation on how to configure the bot, setup specific channels, and manage the Kanban board is available directly on the [Web Dashboard](https://web-core-dev-group-bot.vercel.app/#docs).
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
